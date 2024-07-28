@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.42f11619.css",
+    "main.js": "/static/js/main.7ad18ce6.js",
+    "static/media/logo.svg": "/static/media/logo.dd4e1c171c8fb40cd47b691265c99cae.svg",
+    "static/media/sneaker.jpg": "/static/media/sneaker.ab6280be9b13125606d2.jpg",
+    "static/media/add.svg": "/static/media/add.890c21e6e092e231b04d7f8d3b23767a.svg",
+    "static/media/health.svg": "/static/media/health.954dd20ea08b3990c74ea0206b5195d2.svg",
+    "static/media/user.svg": "/static/media/user.ac388acc92554d86818d2bc9ac664117.svg",
+    "static/media/heart-liked.svg": "/static/media/heart-liked.9b9476985ff38b5fb1aaac6ddcc9946d.svg",
+    "static/media/cart.svg": "/static/media/cart.5113b08fb682dc25f3856ef704a6c05d.svg",
+    "static/media/heart-unliked.svg": "/static/media/heart-unliked.d393617871e6c2f73f7ff382c10743ff.svg",
+    "index.html": "/index.html",
+    "static/media/search.svg": "/static/media/search.48c52bf5d459537e27c07f88eb08c050.svg",
+    "static/media/delete.svg": "/static/media/delete.b1fef0aa93fbf25374f4991d23f900d8.svg",
+    "static/media/card.svg": "/static/media/card.b88e94c67ea7ac0cfa69033241c96b8c.svg",
+    "static/media/Arrow.svg": "/static/media/Arrow.fc3222511ec5a224a4abf3bbf4c2566f.svg",
+    "main.42f11619.css.map": "/static/css/main.42f11619.css.map",
+    "main.7ad18ce6.js.map": "/static/js/main.7ad18ce6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.42f11619.css",
+    "static/js/main.7ad18ce6.js"
+  ]
+}
