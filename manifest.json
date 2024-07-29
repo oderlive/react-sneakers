@@ -14,7 +14,7 @@
     },
     {
       "src": "logo.svg",
-      "type": "image/svg",
+      "type": "image/svg+xml",
       "sizes": "any"
     },
     {
