@@ -19,7 +19,7 @@
     "main.7ad18ce6.js.map": "/react-sneakers/static/js/main.7ad18ce6.js.map"
   },
   "entrypoints": [
-    "https:/react-sneakers/static/css/main.42f11619.css",
-    "https:/react-sneakers/static/js/main.7ad18ce6.js"
+    "https:react-sneakers/static/css/main.42f11619.css",
+    "https:react-sneakers/static/js/main.7ad18ce6.js"
   ]
 }
