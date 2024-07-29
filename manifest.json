@@ -12,12 +12,11 @@
       "type": "image/png",
       "sizes": "192x192"
     },
-    ,
     {
       "src": "logo.svg",
       "type": "image/svg",
       "sizes": "any"
-    }
+    },
     {
       "src": "logo512.png",
       "type": "image/png",
