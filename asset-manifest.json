@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "https://oderlive.github.io/react-sneakers/static/css/main.42f11619.css",
-    "main.js": "https://oderlive.github.io/react-sneakers/static/js/main.7ad18ce6.js",
-    "logo.svg": "https://oderlive.github.io/react-sneakers/static/media/logo.dd4e1c171c8fb40cd47b691265c99cae.svg",
-    "static/media/sneaker.jpg": "https://oderlive.github.io/react-sneakers/static/media/sneaker.ab6280be9b13125606d2.jpg",
-    "static/media/add.svg": "https://oderlive.github.io/react-sneakers/static/media/add.890c21e6e092e231b04d7f8d3b23767a.svg",
-    "static/media/health.svg": "https://oderlive.github.io/react-sneakers/static/media/health.954dd20ea08b3990c74ea0206b5195d2.svg",
-    "static/media/user.svg": "https://oderlive.github.io/react-sneakers/static/media/user.ac388acc92554d86818d2bc9ac664117.svg",
-    "static/media/heart-liked.svg": "https://oderlive.github.io/react-sneakers/static/media/heart-liked.9b9476985ff38b5fb1aaac6ddcc9946d.svg",
-    "static/media/cart.svg": "https://oderlive.github.io/react-sneakers/static/media/cart.5113b08fb682dc25f3856ef704a6c05d.svg",
-    "static/media/heart-unliked.svg": "https://oderlive.github.io/react-sneakers/static/media/heart-unliked.d393617871e6c2f73f7ff382c10743ff.svg",
-    "index.html": "https://oderlive.github.io/react-sneakers/index.html",
-    "static/media/search.svg": "https://oderlive.github.io/react-sneakers/static/media/search.48c52bf5d459537e27c07f88eb08c050.svg",
-    "static/media/delete.svg": "https://oderlive.github.io/react-sneakers/static/media/delete.b1fef0aa93fbf25374f4991d23f900d8.svg",
-    "static/media/card.svg": "https://oderlive.github.io/react-sneakers/static/media/card.b88e94c67ea7ac0cfa69033241c96b8c.svg",
-    "static/media/Arrow.svg": "https://oderlive.github.io/react-sneakers/static/media/Arrow.fc3222511ec5a224a4abf3bbf4c2566f.svg",
-    "main.42f11619.css.map": "https://oderlive.github.io/react-sneakers/static/css/main.42f11619.css.map",
-    "main.7ad18ce6.js.map": "https://oderlive.github.io/react-sneakers/static/js/main.7ad18ce6.js.map"
+    "main.css": "/react-sneakers/static/css/main.42f11619.css",
+    "main.js": "/react-sneakers/static/js/main.7ad18ce6.js",
+    "static/media/logo.svg": "/react-sneakers/static/media/logo.dd4e1c171c8fb40cd47b691265c99cae.svg",
+    "static/media/sneaker.jpg": "/react-sneakers/static/media/sneaker.ab6280be9b13125606d2.jpg",
+    "static/media/add.svg": "/react-sneakers/static/media/add.890c21e6e092e231b04d7f8d3b23767a.svg",
+    "static/media/health.svg": "/react-sneakers/static/media/health.954dd20ea08b3990c74ea0206b5195d2.svg",
+    "static/media/user.svg": "/react-sneakers/static/media/user.ac388acc92554d86818d2bc9ac664117.svg",
+    "static/media/heart-liked.svg": "/react-sneakers/static/media/heart-liked.9b9476985ff38b5fb1aaac6ddcc9946d.svg",
+    "static/media/cart.svg": "/react-sneakers/static/media/cart.5113b08fb682dc25f3856ef704a6c05d.svg",
+    "static/media/heart-unliked.svg": "/react-sneakers/static/media/heart-unliked.d393617871e6c2f73f7ff382c10743ff.svg",
+    "index.html": "/react-sneakers/index.html",
+    "static/media/search.svg": "/react-sneakers/static/media/search.48c52bf5d459537e27c07f88eb08c050.svg",
+    "static/media/delete.svg": "/react-sneakers/static/media/delete.b1fef0aa93fbf25374f4991d23f900d8.svg",
+    "static/media/card.svg": "/react-sneakers/static/media/card.b88e94c67ea7ac0cfa69033241c96b8c.svg",
+    "static/media/Arrow.svg": "/react-sneakers/static/media/Arrow.fc3222511ec5a224a4abf3bbf4c2566f.svg",
+    "main.42f11619.css.map": "/react-sneakers/static/css/main.42f11619.css.map",
+    "main.7ad18ce6.js.map": "/react-sneakers/static/js/main.7ad18ce6.js.map"
   },
   "entrypoints": [
-    "https://oderlive.github.io/react-sneakers/static/css/main.42f11619.css",
-    "https://oderlive.github.io/react-sneakers/static/js/main.7ad18ce6.js"
+    "https:"/react-sneakers/static/css/main.42f11619.css",
+    "https:"/react-sneakers/static/js/main.7ad18ce6.js"
   ]
 }
